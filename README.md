@@ -1,4 +1,7 @@
 # NT-pay-calculator
+
+(CURRENT VERSION HAS "FULL" IN FILE NAME)
+
 Use this to run hypotheticals to make women's and men's U.S. national soccer teams' pay equal. Or at least fair. 
 
 Defining "equal pay" between men's and women's soccer is difficult for these reasons ...
