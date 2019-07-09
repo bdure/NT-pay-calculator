@@ -48,7 +48,7 @@ Also, Olympic prize money is nonexistent aside from small bonuses paid by the U.
 
 The idea here is to give users a chance to change the defaults -- drawn from the men's collective bargaining agreement of 2011-18 (numbers rose in 2015; deal is still in effect as of July 5, 2019) and the women's collective bargaining agreement of 2017-21 -- to come up with a deal that seems fair to them. 
 
-_USERS HAVE FREE LICENSE TO PUBLISH THEIR RESULTS, BUT PLEASE GIVE CREDIT TO BEAU DURE AND LINK BACK IF POSSIBLE_ 
+_USERS HAVE FREE LICENSE TO PUBLISH THEIR RESULTS, ESPECIALLY HERE, BUT PLEASE GIVE CREDIT TO BEAU DURE AND LINK BACK IF POSSIBLE_ 
 
 The master version uses actual results and attendance as the assumed parameters. It also has plausible breakdowns of the number of players on gameday roster for each game -- the more players involved, the more total compensation per team will be. The women's team has a couple of tiers of compensation -- players who are not on salary will receive bonus pay for appearing on a roster. 
 
